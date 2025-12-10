@@ -18,11 +18,20 @@
 [![](https://visitcount.itsvg.in/api?id=mtsarac&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtsarac&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtsarac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsarac&label=Profile%20views&color=0e75b6&style=flat" alt="mtsarac" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtsarac" alt="mtsarac" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtsarac&show_icons=true&locale=en&layout=compact" alt="mtsarac" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtsarac&show_icons=true&locale=en" alt="mtsarac" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtsarac&" alt="mtsarac" /></p>
+
