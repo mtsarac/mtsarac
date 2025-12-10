@@ -18,4 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=mtsarac&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtsarac&show_icons=true&locale=en&layout=compact" alt="mtsarac" /></p>
