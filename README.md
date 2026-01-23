@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello, My Name is Muhammet.<br>🌱 I’m currently learning Next.js
+🔭 Hello, My Name is Muhammet.<br>
 
 
 ## 🌐 Socials:
